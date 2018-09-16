@@ -26,9 +26,9 @@ from linebot.models import *
 # 抓到今天的時間
 now = datetime.datetime.now().strftime("%Y%m%d")
 #自己APP的token
-token='你自己的token'
+token='XiHVmnK/EECcF7aKwi8/nxw5T73qE0o/EyVdVuJsFCeb2aLq7j5Xn2wPYzhTrpHKbPb7OubGIM3WfXrDE4fErBYUslIfGSGFoOnnzutrA/e3ID4IaizlULLMLSg9mhoDC9436XjiyHqdZS1FsKCVVAdB04t89/1O/w1cDnyilFU='
 #自己的ID
-ID='你自己的ID'
+ID='Ue8abee3c42c5872b7de077e77f37e4f7'
 
 args = {
     'owner': 'cheating',
